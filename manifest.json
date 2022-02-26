@@ -1,0 +1,28 @@
+{
+    "name": "Get off the screen!",
+    "description": "A Google Chrome extension that provides suggestions to users to spend time away from the screen.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+    ],
+    "chrome_url_overrides": {
+        "newtab": "customtab.html"
+    },
+    "action": {
+        "default_icon": {
+            "16": "/images/get_started16.png",
+            "32": "/images/get_started32.png",
+            "48": "/images/get_started48.png",
+            "128": "/images/get_started128.png"
+        }
+    },
+    "icons": {
+        "16": "/images/get_started16.png",
+        "32": "/images/get_started32.png",
+        "48": "/images/get_started48.png",
+        "128": "/images/get_started128.png"
+    }
+}
