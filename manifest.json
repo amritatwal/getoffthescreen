@@ -1,6 +1,6 @@
 {
     "name": "Get off the screen!",
-    "description": "A Google Chrome extension that provides suggestions to users to spend time away from the screen.",
+    "description": "A Chrome extension that provides suggestions to users to spend time away from the screen.",
     "version": "1.0.0",
     "manifest_version": 3,
     "permissions": [
