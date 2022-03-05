@@ -1,8 +1,10 @@
 # get off the screen! A Google Chrome extension
 
 <p align="center">
-    <img src="https://i.ibb.co/HrV13Sg/ezgif-com-gif-maker-5.gif" alt="screenshot of extension"/>
+    <img src="https://i.ibb.co/2jVf9f6/ezgif-com-gif-maker-6.gif" alt="screenshot of extension"/>
 </p>
+
+
 
 **_Status_:** Pending review. Download link to be confirmed. 
 
@@ -23,13 +25,14 @@ The project's aim was to give me a taste of development outside of what I have b
 
 
 #### Tech stack
-    - It’s important to note why the stack was chosen to explain intentionality behind it
+JavaScript
+
 #### Key features
     - Why does the project stand out and why should people use it?
+    
 #### Approach
     - Explain why you did something the way you did it as it shows intentionality, also note any design patterns and styles used
-#### Status
-    - If it’s still in development then it would be useful to note
+    
 #### Testing
     - Has it been tested and if so, how would one run the tests?
 #### Accessbility and responsivens
@@ -54,3 +57,4 @@ The project's aim was to give me a taste of development outside of what I have b
     - Who helped you? Were you inspired from someone or something?
     
 #### Licensing
+MIT License
