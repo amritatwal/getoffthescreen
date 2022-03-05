@@ -1,7 +1,7 @@
 # get off the screen! A Google Chrome extension
 
 <p align="center">
-    <img src="https://i.ibb.co/2jVf9f6/ezgif-com-gif-maker-6.gif" alt="screenshot of extension"/>
+    <img src="https://i.ibb.co/MPcdCNM/ezgif-com-gif-maker-7.gif" alt="screenshot of extension"/>
 </p>
 
 
