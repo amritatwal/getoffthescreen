@@ -1,10 +1,8 @@
 # get off the screen! A Google Chrome extension
 
 <p align="center">
-    <img src="https://i.ibb.co/MPcdCNM/ezgif-com-gif-maker-7.gif" alt="screenshot of extension"/>
+    <img src="https://i.ibb.co/FHZ57Gn/ezgif-com-gif-maker-8.gif" alt="screenshot of extension"/>
 </p>
-
-
 
 **_Status_:** Pending review. Download link to be confirmed. 
 
