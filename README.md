@@ -38,16 +38,16 @@ JavaScript
 Testing is currently being worked on using Jest and jsom.
 
 #### Requirements
-- Google Chrome browser must be installed.
+Google Chrome browser must be installed.
     
 #### Installation
-- No installation instructions can be provided yet - tbc. 
+No installation instructions can be provided yet - tbc. 
     
 #### Troubleshooting/FAQs 
 Not applicable as of yet.
     
 #### Bugs
-- Please contact [me](https://github.com/amritatwal) to report any bugs.
+Please contact [me](https://github.com/amritatwal) to report any bugs.
     
 #### Contribution
 - Please help out and provide more suggestions, or put forward ideas to elevate the program.
