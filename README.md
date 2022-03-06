@@ -1,4 +1,5 @@
-# get off the screen! A Google Chrome extension
+
+# ✘ get off the screen! ✘ A Google Chrome extension.
 
 <p align="center">
     <img src="https://i.ibb.co/FHZ57Gn/ezgif-com-gif-maker-8.gif" alt="screenshot of extension"/>
