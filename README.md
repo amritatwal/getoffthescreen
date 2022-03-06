@@ -34,7 +34,7 @@ JavaScript
 - The user interface in general is intentionally clean and minimial that reflects my design aesthetics and do not create overwhelm for users. Browser extensions should enhance the user experience, not to distract them.
     
 #### Testing
-Testing is currently being worked on, using Jest and jsom.
+Testing is currently being worked on using Jest and jsom.
 
 #### Requirements
 - Google Chrome browser must be installed.
@@ -48,7 +48,8 @@ Not applicable as of yet.
 #### Bugs
 - Please contact [me](https://github.com/amritatwal) to report any bugs.
     
-#### Contribution guidelines
+#### Contribution
+- Please help out and provide more suggestions, or put forward ideas to elevate the program.
 - If contributing, please fork and clone the repository. 
 - Please follow [these](https://opensource.guide/how-to-contribute/) guidelines for help on contributing to open source.
 
