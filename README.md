@@ -28,7 +28,7 @@ JavaScript
     
 #### Approach
 
-- As the primary release remains quite simple, only JavaScript was chosen to program and execute the logic. 
+- As the primary release remained to be quite simple, only JavaScript was needed to program and execute the logic. 
 - Suggestions would be randomised in order to keep it engaging and fresh.
 - Colours, too, I decided to have update and change in order to make up for the simplicity of the user interface.
 - The user interface in general is intentionally clean and minimial that reflects my design aesthetics and to not create overwhelm for users. Browser extensions should enhance the user experience, not to distract them.
