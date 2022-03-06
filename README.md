@@ -14,45 +14,43 @@ gots! is a Google Chrome extension that helps to avoid mindless internet browsin
 
 The project's aim was to give me a taste of development outside of what I have been exposed to so far - I wanted to venture out from building web applications. I myself am trying to be more mindful of my screen time and internet habits, so thus gots! was born. 
 
-#### Learning experience
-    - Explain what you learnt, any goals achieved and how
-    - Goals you are aiming for (with future features, sprints, releases)
-    - Teamwork (evidence)
-    
-#### What you could improve on
-
-
 #### Tech stack
 JavaScript
 
 #### Key features
-    - Why does the project stand out and why should people use it?
+- Helpful suggestions provided on-screen to avoid mindless internet consumption.
+- Clean, minimalist design.
+- Colours are dynamic and change upon each new tab or refresh.
+
+#### What you could improve on
+- The extension is rather simple at the moment so further functionality is needed (perhaps a timer that records how much time a user has spent using their         browser that day).
+- More suggestions are needed.
     
 #### Approach
-    - Explain why you did something the way you did it as it shows intentionality, also note any design patterns and styles used
+
+- As the primary release remains quite simple, only JavaScript was chosen to program and execute the logic. 
+- Suggestions would be randomised in order to keep it engaging and fresh.
+- Colours, too, I decided to have update and change in order to make up for the simplicity of the user interface.
+- The user interface in general is intentionally clean and minimial that reflects my design aesthetics and to not create overwhelm for users. Browser extensions should enhance the user experience, not to distract them.
     
 #### Testing
-    - Has it been tested and if so, how would one run the tests?
-#### Accessbility and responsivens
+Testing is currently being worked on, using Jest and jsom.
 
-#### Requirement
-    - Does the project need anything to work? Modules, libraries…
-    - People need you to be transparent whether anything needs to be installed before attempting to use or run the project
+#### Requirements
+- Google Chrome browser must be installed.
     
 #### Installation
-    - It may not always be obvious and it needs to be clear to the user how to use it
-    - If the instructions are complex or again lengthy then it would be beneficial to create a .txt file just for the installation guidelines/process
+- No installation instructions can be provided yet - tbc. 
     
 #### Troubleshooting/FAQs 
-    - This will depend on the complexity of the project and it would be useful to refer to should people encounter issues
+Not applicable as of yet.
     
 #### Bugs
-    - If people want to flag bugs how could they do that?
+- Please contact [me](https://github.com/amritatwal) to report any bugs.
     
 #### Contribution guidelines
+- If contributing, please fork and clone the repository. 
+- Please follow [these](https://opensource.guide/how-to-contribute/) guidelines for help on contributing to open source.
 
-#### Credit
-    - Who helped you? Were you inspired from someone or something?
-    
 #### Licensing
 MIT License
