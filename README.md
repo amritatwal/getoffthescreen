@@ -5,7 +5,7 @@
     <img src="https://i.ibb.co/FHZ57Gn/ezgif-com-gif-maker-8.gif" alt="screenshot of extension"/>
 </p>
 
-**_Status_:** Pending review. Download link to be confirmed. 
+**_Status_:** Approved. Find it [here](https://chrome.google.com/webstore/detail/get-off-the-screen/mlongojboappdcnjljdpdejdbhfmbfge).
 
 ### Description
  
